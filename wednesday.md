@@ -1,8 +1,3 @@
-|                         |                           |
-| ----------------------- | ------------------------- |
-| Tema Principal          | Paradigmas de Programação |
-| Colaborador Responsável | Éttore Leandro Tognoli    |
-
 # Cronograma
 
 - [Intro 18/09/2019](#intro-18092019)
