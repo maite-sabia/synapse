@@ -20,7 +20,7 @@
 
 ## Intro 18/09/2019
 
-BrainStorm dos temas
+[Brain Storm dos temas](./brainstorm.md)
 
 Projeto no GIT
 
