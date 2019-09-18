@@ -1,8 +1,12 @@
 # Plano
 
-
+|               | Tema                                        | Colaborador(es)        |
+| ------------- | ------------------------------------------- | ---------------------- |
+| Segunda-Feira | [Programação Reativa](./monday.md)          | Leonardo R T Lima      |
+| Quarta-Feira  | [Paradigmas de Programação](./wednesday.md) | Éttore Leandro Tognoli |
 
 ## Conceitos
+
 - A.I
 - API Rest
 - Graph QL
@@ -16,6 +20,7 @@
 - Redes Neurais
 
 ## Linguagens
+
 - C/C++
 - Java
 - Kotlin
@@ -25,7 +30,7 @@
 - PHP
 - Haskell
 
-- Dart  
+- Dart
 
 ## Bibliotecas & Frameworks
 
